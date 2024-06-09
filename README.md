@@ -14,7 +14,7 @@ This repository contains the source code for an early access ChatGPT-3 website b
 
 ## Demo
 
-A live demo of the application is available [https://6665c3c9971505e4de1bdd07--thunderous-phoenix-db1728.netlify.app/](#demo).
+A live demo of the application is available [https://6665c3c9971505e4de1bdd07--thunderous-phoenix-db1728.netlify.app/]
 
 ## Features
 
@@ -33,12 +33,12 @@ To get a local copy up and running, follow these simple steps:
 
 1. Clone the repository:
     ```sh
-    git clone https://github.com/yourusername/early-access-chatgpt3.git
+    git clone https://github.com/Binary-Shade/gpt3-ReactJS.git
     ```
 
 2. Navigate to the project directory:
     ```sh
-    cd early-access-chatgpt3
+    cd gpt3-ReactJS
     ```
 
 3. Install dependencies:
@@ -71,6 +71,6 @@ Distributed under the MIT License. See `LICENSE` for more information.
 
 ## Contact
 
-Your Name - [your-email@example.com](mailto:your-email@example.com)
+Binary-Shade - [02042003sureshk@gmail.com]
 
-Project Link: [https://github.com/yourusername/early-access-chatgpt3](https://github.com/yourusername/early-access-chatgpt3)
+Happy Hacking 🚀
