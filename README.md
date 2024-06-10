@@ -14,12 +14,14 @@ This repository contains the source code for an early access ChatGPT-3 website b
 
 ## Demo
 
+![image](https://github.com/Binary-Shade/gpt3-ReactJS/assets/115919438/a2fcfe10-6771-4238-be21-f8b65d14082d)
+
+
 A live demo of the application is available [https://6665c3c9971505e4de1bdd07--thunderous-phoenix-db1728.netlify.app/]
 
 ## Features
 
-- Interactive chat interface (static)
-- User authentication (static)
+- Early Access interface (static)
 - Responsive design
 - Easy to navigate UI
 
